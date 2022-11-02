@@ -1,2 +1,3 @@
-# simongame2-Saransh Goel
+# simongame2-Anurag Gupta
 # Simon-Game
+# SIMON-GAME
